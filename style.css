@@ -1,0 +1,119 @@
+
+body {
+    font-family: "lato";
+}
+
+/*     navbar      */
+.nav-bar {
+    background: url(../images/jason-leung-2seUdPQNy_I-unsplash\ \(5\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 15%;
+}
+
+.navbar {
+    position: relative;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 43%;
+    margin-left: -50px;
+    font-size: 1.8rem;
+    letter-spacing: 3px;
+}
+
+.navbar-scissors {
+    margin-left: 35%;
+}
+
+/********    title        */
+#title {
+    font-family: "lato-bold";
+    color: #fff;
+}
+
+.title-heading {
+    text-align: center;
+    font-size: 4rem;
+    line-height: 1.5;
+    margin-top: 15%;
+}
+
+.title-button {
+    margin-top: 3%;
+}
+
+/*      feature     */
+
+#feature{
+    font-family: "lato-bold";
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+
+.feature-text {
+    line-height: 2.5;
+    font-size: 1.3rem;
+    padding: 4%;
+    padding-top: 10%;
+}
+
+.feature-button {
+    margin-bottom: 5%;
+}
+
+/*      pricing       */
+
+#pricing {
+    font-family: "lato-bold";
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.pricing-heading {
+    font-size: 2.5rem;
+    padding-top: 7%;
+}
+
+.price-text {
+    padding: 5%;
+    line-height: 1.5;
+}
+
+/*     footer   */
+#footer {
+    font-family: "lato-bold";
+    background-color: #000;
+    color: #fff;
+}
+
+.footer-brand {
+    padding-top: 5%;
+    margin-left: 12%;
+}
+
+.footer-scissors {
+    margin-left: 22%;
+    margin-bottom: 4%;
+}
+
+.footer-copyright {
+    margin-left: 13%;
+    padding-bottom: 1%;
+}
+
+.footer-mail {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-mail:hover {
+    color: #fff;
+}
+
+.footer-social-media {
+    position: relative;
+    padding-left: 8%;
+}
